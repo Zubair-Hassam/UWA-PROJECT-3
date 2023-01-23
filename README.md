@@ -17,13 +17,13 @@ So that i can scale and grow my business
 
 ## Technologies utilised 
 ```
-* React 
-* GraphQL
-* MongoDB
-* Mongoose
-* Heroku
-* JWT
-* Stripe
+React 
+GraphQL
+MongoDB
+Mongoose
+Heroku
+JWT
+Stripe
 
 ```
 
