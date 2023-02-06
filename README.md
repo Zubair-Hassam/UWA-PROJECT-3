@@ -81,6 +81,6 @@ Stripe
     3. products: _id, photo (Object), sold, name, description, price, category, shipping, quantity, createdAt, updatedAt
     4. users: _id, role, history (Array), name, email, salt, hashed_password, createdAt, updatedAt
 
-## Authors
+## Author
     Zubair Hassam
 
