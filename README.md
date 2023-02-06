@@ -24,7 +24,6 @@ Mongoose
 Heroku
 JWT
 Stripe
-
 ```
 
 ## Images of deployed site 
